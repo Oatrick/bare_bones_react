@@ -1,6 +1,6 @@
 ![Bare Bones React](https://www.codehawke.com/img/bare_bones_react.png)
 
-Bare Bones React provides a modern UI using SASS, Babel, Webpack and more.  
+Bare Bones React provides a modern UI using SASS, TailwindCSS, TinaCMS, Gatsbyjs, Babel, Webpack and more; this project is intended to reduce friction of building a bespoke JAM stack site. See <a href="https://www.oatrick.com">Oatrick's profolio</a> for an open source implementation of this boilerplate.
 
 ## Documentation
 
@@ -22,4 +22,4 @@ Build production files
 
 ### Credits
 
-Bare Bones React was created by <a href="http://bit.ly/chrishawkes">Chris Hawkes</a>.
+Bare Bones React was based on <a href="http://bit.ly/chrishawkes">Chris Hawkes</a> and customized by <a href="https://www.oatrick.com">Patrick "Oatrick" Kelley</a>.
