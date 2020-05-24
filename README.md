@@ -20,7 +20,7 @@ Build production files
 
 > `npm run prod`
 
-To set up hosting with <a href="https://www.gatsbyjs.com/">Gatsby Cloud</a> simply make the repository public and then sign up at <a href="https://www.gatsbyjs.com/dashboard">Gatsby Cloud</a> with your Github account.
+To set up hosting with <a href="https://www.gatsbyjs.com/">Gatsby Cloud</a> simply make the repository public, sign up at <a href="https://www.gatsbyjs.com/dashboard">Gatsby Cloud</a> with your Github account, and follow the premade site setup flow on the dashboard.
 
 ### Credits
 
