@@ -1,4 +1,4 @@
-![Bare Bones React](https://www.codehawke.com/img/bare_bones_react.png)
+![Bare Bones React](https://www.oatrick.com/img/current_snapshot.png)
 
 Bare Bones React provides a modern UI using SASS, TailwindCSS, TinaCMS, Gatsbyjs, Babel, Webpack and more; this project is intended to reduce friction of building a bespoke JAM stack site. See <a href="https://www.oatrick.com">Oatrick's profolio</a> for an open source implementation of this boilerplate.
 
@@ -19,6 +19,8 @@ Run the dev server
 Build production files
 
 > `npm run prod`
+
+To set up hosting with <a href="https://www.gatsbyjs.com/">Gatsby Cloud</a> simply make the repository public and then sign up at <a href="https://www.gatsbyjs.com/dashboard">Gatsby Cloud</a> with your Github account.
 
 ### Credits
 
