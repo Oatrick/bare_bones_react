@@ -26,25 +26,43 @@ Build production files
 
 ### Resources
 
-These resources can be used to increase functionality with <a href="https://www.CochraneReact.com">Cochrane React</a>; the recommended services are simple to use, either intergated out of the box or easily manually intergated, and all have implementation guides on <a href="https://docs.CochraneReact.com/tuts">Cochrane React Documentation's Tutorial Section</a>.
+These resources can be used to increase functionality with <a href="https://www.CochraneReact.com">Cochrane React</a>; the recommended services are simple to use, either intergated out of the box or easily manually intergated, and all have included in the use case guides on <a href="https://docs.CochraneReact.com/tuts">Cochrane React Documentation's Tutorial Section</a>. 
 
-##### Intergation 
+##### Services
 
-###### Try <a href="https://www.userbase.com">Userbase</a> for implementing end user accounts and data presistance.
+###### Try <a href="https://www.userbase.com">Userbase</a> for implementing end user accounts and data presistance without managing databases.
+
+###### Try <a href="https://zapier.com/">Zapier/</a> for automating intergation.
+
+###### Try <a href="https://www.algolia.com/">Algolia</a> for implementing search.
+
+###### Try <a href="https://www.typeform.com/">Typeform/</a> for implementing engaging input forms.
+
+###### Try <a href="https://stripe.com/">Stripe</a> for accepting traditonal payment methods.
+
+###### Try <a href="https://docs.shapeshift.io/?version=latest">Shapeshift</a> for accepting cryptocurrencies.
+
+###### Try <a href="https://mux.com/">Mux Video</a> for an API-first video platform for streaming and video on demand implementation.
 
 ######  Try <a href="https://www.SlideBean.com">SlideBean</a> for creating pitch decks which can be intergrated directly on the site.
 
-#####  Examples Use Cases
+###### Try <a href="https://www.gitbook.com/">GitBook</a> for rapidly creating documentation sites.
+
+#####  Use Cases
 
 ######  Documentation Example: <a href="https://docs.CochraneReact.com">Cochrane React Documentation</a>, <a href="https://www.CochraneReact.com/blog/chochrane_documentation_site_tutorial">Guide</a>
 
-######  Userbase, E-Commerce, Example: <a href="https://store.oatrick.com">Oatrick's Personal Store</a>, <a href="https://www.CochraneReact.com/blog/chochrane_ecommerce_site_tutorial">Guide</a>
+######  Userbase Example: <a href="https://www.bonds.cool">Bonds.cool</a>, <a href="https://www.CochraneReact.com/blog/chochrane_ecommerce_site_tutorial">Guide</a>
 
-######  Multisite Example : <a href="https://www.oatrick.com">Oatrick's personal site</a>, <a href="https://www.CochraneReact.com/blog/chochrane_profolio_site_tutorial">Guide</a> [Advanced]
+######  Omnisite Example : <a href="https://www.oatrick.com">Oatrick's Main Site</a>, <a href="https://www.CochraneReact.com/blog/chochrane_profolio_site_tutorial">Guide</a> [Advanced]
 
 ##### Hosting with Vercel
 
 To set up hosting with <a href="https://vercel.com/">Vercel </a> simply make the repository public, sign up at <a href="https://vercel.com/">Vercel/a> with your Github account, and follow the premade site setup flow.
+ 
+##### More Resources
+
+<a href="https://github.com/automata/awesome-jamstack">awesome-jamstack repository</a>, <a href="https://www.thenewdynamic.org/">The New Dynamic</a>, <a href="https://github.com/agarrharr/awesome-static-website-services">awesome-static-website-services repository</a>, and <a href="https://github.com/b-long/awesome-static-hosting-and-cms">awesome-static-hosting-and-cms repository</a>.
   
 ### Credits
 
